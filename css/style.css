@@ -1,0 +1,22 @@
+body
+{
+	width: 500px;
+	margin: auto;
+	background: lightgrey;
+}
+blockquote
+{
+	text-align: center;
+	padding: 15px;
+	border: 1px solid white;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+#one
+{
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+	border: 1px solid white;
+	margin-left: 0px;
+	margin-right: 0px;
+}
